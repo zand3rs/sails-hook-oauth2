@@ -1,0 +1,26 @@
+{
+  "name": "sails-hook-oauth2",
+  "version": "0.0.1",
+  "description": "comming soon!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zand3rs/sails-hook-oauth2.git"
+  },
+  "keywords": [
+    "oauth",
+    "oauth2",
+    "auth",
+    "sails",
+    "sails-hook"
+  ],
+  "author": "Alexander Magtipon",
+  "license": "ISC",
+  "homepage": "https://github.com/zand3rs/sails-hook-oauth2",
+  "bugs": {
+    "url": "https://github.com/zand3rs/sails-hook-oauth2/issues"
+  }
+}
